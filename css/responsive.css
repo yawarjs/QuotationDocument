@@ -1,0 +1,37 @@
+/*============	Media Between Start ============ */
+@media (max-width: 1366px){
+	
+}
+
+/*============	Media 940Px Start ============ */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+	
+}
+
+/*============	Media 979Px Start ============ */
+@media (max-width: 991px) {
+	
+}
+
+/*============	Media 768Px Start ============ */ 
+@media (min-width: 768px) and (max-width: 990px) {
+	
+}
+
+/*============ Media 767Px Start ============ */
+@media (max-width: 767px) {
+	
+
+}
+
+/*============ Media 480Px Star ============ */
+@media (max-width: 480px) {
+	
+}
+
+/*============ Media 992Px  ============ */
+@media (min-width: 320px) and (max-width: 992px) {
+    .btn-normal {
+        padding: 5px 8px;
+    }
+}
